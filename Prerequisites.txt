@@ -1,0 +1,6 @@
+Prerequisites:
+1. OpenWRT (Linux-based)
+2. Python (Backend)
+3. Flask API (Python-based)
+4. JSON (Databases)
+5. HTML/CSS/JS (Frontend)

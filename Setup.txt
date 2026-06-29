@@ -1,0 +1,6 @@
+Setup:
+1. Download and install OpenWRT on a supported router.
+2. Create a backend and upload it to the router alongside the API at /opt/familyshield/backend.
+3. Create a frontend and upload it to the router at /opt/familyshield/frontend.
+4. Create a directory at /etc/ for the router to put all the live data (database, blocking, etc...).
+5. Launch the API and follow the URL that it servers to reach the application.

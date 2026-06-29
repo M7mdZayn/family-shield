@@ -1,0 +1,35 @@
+{
+  "4c:ed:fb:c6:29:27": {
+    "name": "PC",
+    "profile": "Teen",
+    "paused": false,
+    "blocked_categories": [],
+    "schedule": {
+      "enabled": true,
+      "block_from": "22:00",
+      "block_until": "06:00"
+    }
+  },
+  "66:36:ee:fc:a6:cc": {
+    "name": "Phone",
+    "profile": "Child",
+    "paused": false,
+    "blocked_categories": [],
+    "schedule": {
+      "enabled": true,
+      "block_from": "21:00",
+      "block_until": "06:00"
+    }
+  },
+  "18:cf:5e:0e:79:12": {
+    "name": "Laptop",
+    "profile": "Adult",
+    "paused": false,
+    "blocked_categories": [],
+    "schedule": {
+      "enabled": true,
+      "block_from": "23:00",
+      "block_until": "06:00"
+    }
+  }
+}
